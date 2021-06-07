@@ -1,0 +1,6 @@
+BOT_TOKEN = "1344855734:AAGHV57Hf6DupU82H5NJTqcAEDJsmDPJcXI"
+COMMENT_BOT_TOKEN = "d47f283e0844e0c6512bfa815b5f2d98"
+question_no_content = "!سوال محتوایی نداشت "
+channel_id = "@iraniStackOverflow"
+group_id = "oovvvvoo_bot_test_group"
+ask_in_group= f"استفاده از این ربات فقط از طریق گروه @{group_id} ممکن است!"
